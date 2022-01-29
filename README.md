@@ -7,6 +7,6 @@ Circuit (as [KiCad](https://www.kicad.org/) files) for flashing code to the [In-
 
 ## Schematic
 
-![Schematic](img/schematic.svg)
+![Schematic](img/schematic.png)
 
 
